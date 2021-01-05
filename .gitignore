@@ -1,0 +1,6 @@
+*.mp4
+*.mxf
+*.jpg
+*.avi
+venv
+.idea
